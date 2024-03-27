@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stefanoborrelli/](https://www.linkedin.com/in/stefanoborrelli/)
 
-- ⚡ Fun fact **I'm also musician and singer.**
+- ⚡ Fun fact **I'm also Podcaster, musician and singer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
