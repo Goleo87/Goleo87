@@ -7,13 +7,12 @@
 
 - 🔭 I’m currently working on [Podcast's Website](https://github.com/Goleo87/diariodelhostil)
 
-- 🌱 I’m currently learning **Web Development (Html, CSS, JavaScript, Frontend, Backend)**
+- 🌱 I’m currently learning **Web Development (Html, CSS, JavaScript, React.js**
 
 - 📫 How to reach me **stefano.borrelli@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stefanoborrelli/](https://www.linkedin.com/in/stefanoborrelli/)
 
-- ⚡ Fun fact **I'm also Podcaster, musician and singer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
