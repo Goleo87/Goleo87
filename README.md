@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goleo87" alt="goleo87" /></a> </p>
 
-- 🔭 I’m currently working on [Podcast's Website](https://github.com/Goleo87/diariodelhostil)
-
-- 🌱 I’m currently learning **Web Development (Html, CSS, JavaScript, React.js**
+- 🌱 I’m currently learning **Web Development (Html, CSS, JavaScript, React.js** at Dci Career Institute
 
 - 📫 How to reach me **stefano.borrelli@gmail.com**
 
