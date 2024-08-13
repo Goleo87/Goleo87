@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
-<h3 align="center">A Web Development's Student Living in Germany</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goleo87&label=Profile%20views&color=0e75b6&style=flat" alt="goleo87" /> </p>
 
 
-- 🌱 I’m currently learning **Web Development (Html, CSS, JavaScript, React.js** at Dci Career Institute
+- 🌱 I’m currently learning ** Full-Stack Web Development (Html, CSS, JavaScript, React.js** at Dci Career Institute
 
 - 📫 How to reach me **stefano.borrelli@gmail.com**
 
