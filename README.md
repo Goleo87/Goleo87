@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goleo87&label=Profile%20views&color=0e75b6&style=flat" alt="goleo87" /> </p>
 
 
-- 🌱 I’m currently learning ** Full-Stack Web Development (Html, CSS, JavaScript, React.js** at Dci Career Institute
+- 🌱 Full-Stack Web Development (Html, CSS, JavaScript, React.js) at Dci Career Institute
 
 - 📫 How to reach me **stefano.borrelli@gmail.com**
 
